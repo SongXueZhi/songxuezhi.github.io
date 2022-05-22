@@ -2,7 +2,7 @@
 title: "RegMiner: Towards Constructing Ultra-Large Regression Dataset from Code Evolution History"
 collection: publications
 # permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: '⚡ CCF Prototype Competition Award (1st Prize)'
+# excerpt: '⚡ CCF Prototype Competition Award (1st Prize)'
 date: 2022-05-16
 venue: 'ISSTA'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
@@ -10,4 +10,4 @@ venue: 'ISSTA'
 ---
 **Xuezhi Song**, Yun Lin*, Siang Hwee Ng, Yijian Wu, Xin Peng, Jin Song Dong and Hong Mei. RegMiner: Towards Constructing a Large Regression Dataset from Code Evolution History
 
-⚡ CCF Prototype Competition Award (1st Prize)
+⚡CCF Prototype Competition Award (1st Prize)
