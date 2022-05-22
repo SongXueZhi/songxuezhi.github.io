@@ -5,6 +5,7 @@ collection: publications
 # excerpt: '⚡ CCF Prototype Competition Award (1st Prize)'
 date: 2022-05-16
 venue: 'ISSTA'
+award: 'CCF Prototype Competition Award (1st Prize)'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
