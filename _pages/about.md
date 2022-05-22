@@ -1,14 +1,13 @@
 ---
 permalink: /
 title: "Home"
-# excerpt: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### About me
  - 🔭  I am a PhD student in [Fudan University](https://www.fudan.edu.cn/en/) under the supervision of [Dr. Lin Yun](http://linyun.info/index.html) and Prof. Yijian Wu, mentored by [Prof. Peng Xin](https://cspengxin.github.io/). I received my master degree in computer technology from [Donghua University](https://english.dhu.edu.cn/).
  - 🌱  I currently major in software engineering and my research interests lie in root cause analysis and mining software bugs.
 
@@ -20,8 +19,8 @@ redirect_from:
 
 ### Awards
 -  Huawei Smart Base Scholarship, 2022
--  First Prize, Open Source Project Innovation Competition Free Track, The 4th China Software Open Source Innovation Competition, 2021
--  Second Prize, Open source project innovation competition Proposition track, The 4th China Software Open Source Innovation Competition, 2021
+-  1st Prize, Open Source Project Innovation Competition Free Track, The 4th China Software Open Source Innovation Competition, 2021
+-  2nd Prize, Open source project innovation competition Proposition track, The 4th China Software Open Source Innovation Competition, 2021
 
 ### Experience
 - Research Assistant, Software Engineering Lab @Fudan, March 2021 - Sep. 2021
