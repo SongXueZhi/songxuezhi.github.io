@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "RegMiner: Towards Constructing Ultra-Large Regression Dataset from Code Evolution History"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+# permalink: /publication/2009-10-01-paper-title-number-1
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2022-05-16
+venue: 'ISSTA'
+# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Xuezhi Song, Yun Lin*, Siang Hwee Ng, Yijian Wu, Xin Peng, Jin Song Dong and Hong Mei. RegMiner: Towards Constructing a Large Regression Dataset from Code Evolution History (ISSTA 2022)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+⚡ CCF Prototype Competition Award (1st Prize)
