@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+### About me
  - 🔭  I am a PhD student in [Fudan University](https://www.fudan.edu.cn/en/) under the supervision of [Dr. Lin Yun](http://linyun.info/index.html) and Prof. Yijian Wu, mentored by [Prof. Peng Xin](https://cspengxin.github.io/). I received my master degree in computer technology from [Donghua University](https://english.dhu.edu.cn/).
  - 🌱  I currently major in software engineering and my research interests lie in root cause analysis and mining software bugs.
 
