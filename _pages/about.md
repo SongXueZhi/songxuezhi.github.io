@@ -18,7 +18,6 @@ redirect_from:
 - [2023/06/24] Our paper "Characterizing the Complexity and Its Impact on Testing in ML-Enabled Systems - A Case Study on Rasa"is accepted by ICSME'23, Congratulations to [Junming Cao](https://jamescao2048.github.io/). 
 - [2022/08/12] Our paper "RegMiner: Mining Replicable Regression Dataset from Code Repositories" is accepted by FSE'22(Demonstration Track).
 - [2022/04/12] Our paper "RegMiner: Towards Constructing Ultra-Large Regression Dataset from Code Evolution History" is accepted by ISSTA'22.
->>>>>>> Stashed changes
 - [2022/01/25] Our paper "gDefect4DL: A Dataset of General Real-World Deep Learning Program Defects" is accepted by ICSE'22 (Demonstration Track), Congratulations to Yunkai. 
 - [2021/12/17] I gave a talk on regressions-auto-harvesting work on the 4th China Open Source Conference([online video](https://www.bilibili.com/video/BV1YL4y1b7v1?share_source=copy_web)).
 - [2019/12/09] I received a research intern invitation from the Department of Computer Science, School of Computing at the National University of Singapore("NUS").
