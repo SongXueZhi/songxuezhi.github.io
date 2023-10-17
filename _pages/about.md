@@ -24,6 +24,8 @@ redirect_from:
 - [2019/12/09] I received a research intern invitation from the Department of Computer Science, School of Computing at the National University of Singapore("NUS").
 
 ### Awards
+-  Academic Excellence First Prize 2023
+-  Named Award，2022
 -  Huawei Smart Base Scholarship, 2022
 -  1st Prize, Open Source Project Innovation Competition Free Track, The 4th China Software Open Source Innovation Competition, 2021
 -  2nd Prize, Open source project innovation competition Proposition track, The 4th China Software Open Source Innovation Competition, 2021
