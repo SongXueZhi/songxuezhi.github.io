@@ -13,8 +13,9 @@ redirect_from:
  - 🌱  I currently major in software engineering and my research interests lie in root cause analysis and mining software bugs.
 
 ### News
+- [2024/03/02] ⚡ Our paper "C2D2: Extracting Critical Changes for Real-World Bugs with Dependency-Sensitive Delta Debugging" is accepted by ISSTA'24.
 - [2023/08/15] ⚡ Our paper "BugMiner: Automating Precise Bug Dataset Construction by Code Evolution History Mining" is accepted by ASE'23(Industry Challenge Track)
-- [2023/06/24] ⚡ Our paper "An Empirical Study on Fault Diagnosisa in Robotic Systems" is accepted by ICSME'23
+- [2023/06/24]  Our paper "An Empirical Study on Fault Diagnosisa in Robotic Systems" is accepted by ICSME'23
 - [2023/06/24] Our paper "Characterizing the Complexity and Its Impact on Testing in ML-Enabled Systems - A Case Study on Rasa"is accepted by ICSME'23, Congratulations to [Junming Cao](https://jamescao2048.github.io/). 
 - [2022/08/12] Our paper "RegMiner: Mining Replicable Regression Dataset from Code Repositories" is accepted by FSE'22(Demonstration Track).
 - [2022/04/12] Our paper "RegMiner: Towards Constructing Ultra-Large Regression Dataset from Code Evolution History" is accepted by ISSTA'22.
