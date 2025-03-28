@@ -1,6 +1,7 @@
 ---
 title: "gDefect4DL: A Dataset of General Real-World Deep Learning Program Defects"
 collection: publications
+category: conferences
 # permalink: /publication/2010-10-01-paper-title-number-2
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-01-20

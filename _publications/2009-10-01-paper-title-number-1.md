@@ -1,6 +1,7 @@
 ---
 title: "RegMiner: Towards Constructing Ultra-Large Regression Dataset from Code Evolution History"
 collection: publications
+category: conferences
 # permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '**Xuezhi Song**, Yun Lin*, Siang Hwee Ng, Yijian Wu, Xin Peng, Jin Song Dong and Hong Mei. RegMiner: Towards Constructing a Large Regression Dataset from Code Evolution History **[⚡ CCF Prototype Competition Award (1st Prize)]**'
 date: 2022-05-16
