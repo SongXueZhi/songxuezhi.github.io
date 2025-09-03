@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
- - 🔭  I am a PhD student in [Fudan University](https://www.fudan.edu.cn/en/) under the supervision of [Prof. Yijian Wu](https://dl.acm.org/profile/81310483038/publications?Role=author) and [Prof. Bihuan Chen](https://chenbihuan.github.io/), mentored by [Prof. Peng Xin](https://cspengxin.github.io/). I received a research intern invitation from National University of Singapore("NUS") in 2019, supervised by Prof. [Yun Lin](http://linyun.info/). I received my master degree in computer technology from [Donghua University](https://english.dhu.edu.cn/) in 2021.
+ - 🔭  I am an Algorithm Engineer in the Intelligent Software Quality department at [ByteDance](https://www.bytedance.com/). I earned my Ph.D. from [Fudan University](https://www.fudan.edu.cn/en/) and my M.S. from [Donghua University](https://english.dhu.edu.cn/). During my doctoral studies, I was supervised by Professors [Yijian Wu](https://dl.acm.org/profile/81310483038/publications?Role=author) and [Bihuan Chen](https://chenbihuan.github.io/) and mentored by Professor [Peng Xin](https://cspengxin.github.io/). During my master’s program, I was invited to a research internship at the [National University of Singapore (NUS)](https://nus.edu.sg/), supervised by Professor [Yun Lin](http://linyun.info/).
  - 🌱  My research focuses on software quality assurance, particularly automated testing and defect analysis through static/dynamic program analysis and AI-driven approaches like large language models (LLMs).
 
 ### News
+- [2025/8/22]  ⚡Our paper *Defect Isolation via Semantic Analysis of Code Changes* has been accepted by the **Journal of Software** (China). Congratulations to Shuning, and happy graduation!
 - [2024/11/04] ⚡I've joined ByteDance as an LLM Algorithm Intern!
-- [2024/03/02] ⚡Our paper "C2D2: Extracting Critical Changes for Real-World Bugs with Dependency-Sensitive Delta Debugging" is accepted by ISSTA'24.
+- [2024/03/02]  Our paper "C2D2: Extracting Critical Changes for Real-World Bugs with Dependency-Sensitive Delta Debugging" is accepted by ISSTA'24.
 - [2023/08/15]  Our paper "BugMiner: Automating Precise Bug Dataset Construction by Code Evolution History Mining" is accepted by ASE'23(Industry Challenge Track)
 - [2023/06/24]  Our paper "An Empirical Study on Fault Diagnosisa in Robotic Systems" is accepted by ICSME'23
 - [2023/06/24] Our paper "Characterizing the Complexity and Its Impact on Testing in ML-Enabled Systems - A Case Study on Rasa"is accepted by ICSME'23, Congratulations to [Junming Cao](https://jamescao2048.github.io/). 
