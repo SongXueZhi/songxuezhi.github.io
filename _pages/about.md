@@ -11,8 +11,10 @@ redirect_from:
  - 🌱  My research focuses on software quality assurance, particularly automated testing and defect analysis through static/dynamic program analysis and AI-driven approaches like large language models (LLMs).
 
 ### News
+- [2025/10/20] ⚡Our paper *Characterizing Regression Bug‑Inducing Changes and Improving LLM‑Based Regression Bug Detection* has been accepted by **ICSE 2026** (acceptance rate: 9.06% in the first round). Congratulations to all co-authors!
 - [2025/8/22]  ⚡Our paper *Defect Isolation via Semantic Analysis of Code Changes* has been accepted by the **Journal of Software** (China). Congratulations to Shuning, and happy graduation!
-- [2024/11/04] ⚡I've joined ByteDance as an LLM Algorithm Intern!
+- [2025/8/15] ⚡I've officially joined ByteDance Quality Intelligence Department as a Large Language Model Algorithm Researcher!
+- [2024/11/04] I've joined ByteDance as an LLM Algorithm Intern!
 - [2024/03/02]  Our paper "C2D2: Extracting Critical Changes for Real-World Bugs with Dependency-Sensitive Delta Debugging" is accepted by ISSTA'24.
 - [2023/08/15]  Our paper "BugMiner: Automating Precise Bug Dataset Construction by Code Evolution History Mining" is accepted by ASE'23(Industry Challenge Track)
 - [2023/06/24]  Our paper "An Empirical Study on Fault Diagnosisa in Robotic Systems" is accepted by ICSME'23
