@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- - 🔭  I am an Algorithm Engineer in the Intelligent Software Quality department at [ByteDance](https://www.bytedance.com/). I earned my Ph.D. from [Fudan University](https://www.fudan.edu.cn/en/) and my M.S. from [Donghua University](https://english.dhu.edu.cn/). During my doctoral studies, I was supervised by Professors [Yijian Wu](https://dl.acm.org/profile/81310483038/publications?Role=author) and [Bihuan Chen](https://chenbihuan.github.io/) and mentored by Professor [Peng Xin](https://cspengxin.github.io/). During my master’s program, I was invited to a research internship at the [National University of Singapore (NUS)](https://nus.edu.sg/), supervised by Professor [Yun Lin](http://linyun.info/).
+ - 🔭  I am a Researcher in the Intelligent Software Quality department at [ByteDance](https://www.bytedance.com/). I earned my Ph.D. from [Fudan University](https://www.fudan.edu.cn/en/) and my M.S. from [Donghua University](https://english.dhu.edu.cn/). During my doctoral studies, I was supervised by Professors [Yijian Wu](https://dl.acm.org/profile/81310483038/publications?Role=author) and [Bihuan Chen](https://chenbihuan.github.io/) and mentored by Professor [Peng Xin](https://cspengxin.github.io/). During my master's program, I was invited to a research internship at the [National University of Singapore (NUS)](https://nus.edu.sg/), supervised by Professor [Yun Lin](http://linyun.info/).
  - 🌱  My research focuses on software quality assurance, particularly automated testing and defect analysis through static/dynamic program analysis and AI-driven approaches like large language models (LLMs).
 
 ### News
